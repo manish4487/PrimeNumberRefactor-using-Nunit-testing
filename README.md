@@ -1,7 +1,7 @@
 # PrimeNumberRefactor-using-Nunit-testing
 C# code to calculate PrimeNumberRfactor and implemented Nunit unit testing 
-
 1)What is Prime Number Refactor?
+
 ![download](https://user-images.githubusercontent.com/25961531/36657036-c29d8960-1a7f-11e8-908c-d807f547c838.jpg)
 
 2)Output of Method to derive factors which are prime
